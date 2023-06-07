@@ -1,2 +1,4 @@
-package org.practice;public class App {
+package org.practice;
+
+public class App {
 }

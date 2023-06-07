@@ -1,2 +1,4 @@
-package org.practice;public class Encoding {
+package org.practice;
+
+public class Encoding {
 }
